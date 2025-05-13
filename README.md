@@ -1,4 +1,4 @@
-# 🧠 C Assembler – Two-Pass Assembler Written in C
+# 🧠 C Assembler – Written in C
 
 A complete two-pass assembler written entirely in C by **Hillel Suied**, designed to process `.as` source files, expand macros, resolve labels, encode instructions into binary, and generate output in Base64.
 
